@@ -2,3 +2,5 @@ numpy
 matplotlib
 tensorflow-gpu
 tensorflow_datasets
+Pillow
+scipy
