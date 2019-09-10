@@ -4,3 +4,4 @@ tensorflow-gpu
 tensorflow_datasets
 Pillow
 scipy
+tensorflow_hub==0.4.0
